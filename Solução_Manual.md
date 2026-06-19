@@ -1,3 +1,4 @@
+# IMPORTANTE : NÃO USADO MAIS DESSA FORMA
 # Solução de Problemas - Tela de Bloqueio Não Aplica
 
 Se uma máquina específica não aplicar a tela de bloqueio pelo ciclo normal da GPO,
