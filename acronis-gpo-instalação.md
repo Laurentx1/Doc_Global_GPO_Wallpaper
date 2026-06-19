@@ -1,4 +1,4 @@
-# Instalacao do Agente Futura Cyber Protection (Acronis) via GPO
+# Instalação do Agente Futura Cyber Protection (Acronis) via GPO
 
 **Cliente:** Global Logistica (global.log)  
 **Objetivo:** Implantar o agente Futura Cyber Protection (Acronis rebrandeado) automaticamente nas máquinas do domínio via GPO.  
